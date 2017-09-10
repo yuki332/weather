@@ -1,0 +1,19 @@
+{
+  "name": "weather.app",
+  "version": "1.0.0",
+  "description": "for portfolio purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuki332/weather.git"
+  },
+  "author": "Yuki Arai, Devin Nakama, Robert Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuki332/weather/issues"
+  },
+  "homepage": "https://github.com/yuki332/weather#readme"
+}
