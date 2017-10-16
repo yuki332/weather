@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sunny-Copy-2" transform="translate(2.000000, 2.000000)">
+            <g id="Group-4">
+                <g id="Group-3" stroke="#020202" stroke-width="3.84" stroke-linecap="round">
+                    <path d="M32,7.73626374 L32,7.10542736e-15" id="Line"></path>
+                    <path d="M49.210084,14.7692308 L54.5054945,9.49450549" id="Line-Copy-11"></path>
+                    <path d="M56.2637363,32 L64,32" id="Line-Copy-12"></path>
+                    <path d="M49.0420957,49.0420957 L54.5054945,54.5054945" id="Line-Copy-13"></path>
+                    <path d="M32,56.2637363 L32,64" id="Line-Copy-14"></path>
+                    <path d="M7.7582383,32 L0,32" id="Line-Copy-15"></path>
+                    <path d="M14.789916,14.7692308 L9.49450549,9.49450549" id="Line-Copy-17"></path>
+                    <path d="M14.9579043,49.0420957 L9.49450549,54.5054945" id="Line-Copy-16"></path>
+                </g>
+                <circle id="Oval-3" stroke="#000000" stroke-width="3.2" fill="#FFE41E" cx="32" cy="32" r="15.8241758"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

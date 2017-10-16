@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Foggy Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Foggy-Copy" stroke="#666666" stroke-width="3.2">
+            <g id="Group" transform="translate(0.000000, 12.160000)">
+                <path d="M0,3.81234834 C20.4966495,-9.56373844 42.8670394,17.6576937 63.5970238,3.81234834" id="Path-4" transform="translate(31.798512, 3.929659) scale(-1, 1) translate(-31.798512, -3.929659) "></path>
+                <path d="M0,19.8123483 C20.4966495,6.43626156 42.8670394,33.6576937 63.5970238,19.8123483" id="Path-4-Copy" transform="translate(31.798512, 19.929659) scale(-1, 1) translate(-31.798512, -19.929659) "></path>
+                <path d="M0,35.1723483 C20.4966495,21.7962616 42.8670394,49.0176937 63.5970238,35.1723483" id="Path-4-Copy-2" transform="translate(31.798512, 35.289659) scale(-1, 1) translate(-31.798512, -35.289659) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

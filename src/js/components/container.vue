@@ -1,6 +1,6 @@
 <template>
 	<div class="container">
-		<div class="date">SUNDAY | NOV 28</div>
+		<div class="date">SUNDAY  |  NOV 28</div>
 		<card></card>
 		<card></card>
 		<card></card>

@@ -8499,7 +8499,7 @@ exports = module.exports = __webpack_require__(0)(undefined);
 
 
 // module
-exports.push([module.i, "\n.card[data-v-c652c692] {\n  display: flex;\n  background: #eee;\n  padding: 1rem;\n  border-radius: 10px;\n  margin-bottom: 1rem;\n}\n.city[data-v-c652c692] {\n  font-size: 2rem;\n  font-weight: 600;\n}\n", ""]);
+exports.push([module.i, "\n.card[data-v-c652c692] {\n  display: flex;\n  background: #eee;\n  padding: 1rem;\n  margin-bottom: 1rem;\n  justify-content: space-between;\n  align-items: center;\n}\n.city[data-v-c652c692] {\n  font-size: 11px;\n  font-weight: 100;\n  color: #666666;\n  letter-spacing: .1rem;\n}\n.weather[data-v-c652c692] {\n  letter-spacing: .1rem;\n}\n.temp[data-v-c652c692] {\n  font-weight: 600;\n  font-size: 2rem;\n}\n.temp[data-v-c652c692]::after {\n    content: \"\\B0\";\n}\n", ""]);
 
 // exports
 
@@ -8509,6 +8509,13 @@ exports.push([module.i, "\n.card[data-v-c652c692] {\n  display: flex;\n  backgro
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -8535,10 +8542,25 @@ var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._sel
   return _c('div', {
     staticClass: "card"
   }, [_c('div', {
+    staticClass: "detail"
+  }, [_c('div', {
     staticClass: "city"
-  }, [_vm._v(_vm._s(_vm.city))])])
+  }, [_vm._v(_vm._s(_vm.city))]), _vm._v(" "), _c('div', {
+    staticClass: "weather"
+  }, [_vm._v("SUNNY")]), _vm._v(" "), _c('div', {
+    staticClass: "temp"
+  }, [_vm._v("25")])]), _vm._v(" "), _vm._m(0)])
 }
-var staticRenderFns = []
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: "icon"
+  }, [_c('img', {
+    attrs: {
+      "src": "icons/sunny.svg",
+      "alt": ""
+    }
+  })])
+}]
 render._withStripped = true
 var esExports = { render: render, staticRenderFns: staticRenderFns }
 /* harmony default export */ __webpack_exports__["a"] = (esExports);
@@ -8559,7 +8581,7 @@ var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._sel
     staticClass: "container"
   }, [_c('div', {
     staticClass: "date"
-  }, [_vm._v("SUNDAY | NOV 28")]), _vm._v(" "), _c('card'), _vm._v(" "), _c('card'), _vm._v(" "), _c('card'), _vm._v(" "), _c('card'), _vm._v(" "), _c('card')], 1)
+  }, [_vm._v("SUNDAY  |  NOV 28")]), _vm._v(" "), _c('card'), _vm._v(" "), _c('card'), _vm._v(" "), _c('card'), _vm._v(" "), _c('card'), _vm._v(" "), _c('card')], 1)
 }
 var staticRenderFns = []
 render._withStripped = true

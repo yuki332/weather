@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Rain Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rain-Copy-2">
+            <g id="Group-5" transform="translate(0.000000, 3.200000)">
+                <path d="M14.7393939,41.885769 C14.6105173,41.8891885 14.4812171,41.8909091 14.3515152,41.8909091 C6.4253922,41.8909091 0,35.4655169 0,27.5393939 C0,19.613271 6.4253922,13.1878788 14.3515152,13.1878788 C15.8871688,13.1878788 17.3664888,13.4290717 18.7536594,13.8756418 C20.7059699,5.91003513 27.8931067,0 36.4606061,0 C46.5289244,0 54.6909091,8.16198468 54.6909091,18.230303 C54.6909091,18.4373147 54.6874587,18.6435205 54.6806122,18.848866 C59.9971372,19.92304 64,24.6213334 64,30.2545455 C64,36.5513314 58.9985451,41.6799649 52.7515152,41.8845662 L52.7515152,41.8909091 L14.7393939,41.8909091 L14.7393939,41.885769 Z" id="Combined-Shape-Copy-3" stroke="#000000" stroke-width="3.2" fill="#FFFFFF"></path>
+                <path d="M3.49090909,58.0266667 L9.6969697,48.5169508" id="Line-Copy-6" stroke="#39A1ED" stroke-width="3.84" stroke-linecap="round"></path>
+                <path d="M14.3515152,58.0266667 L20.5575758,48.5169508" id="Line-Copy-7" stroke="#39A1ED" stroke-width="3.84" stroke-linecap="round"></path>
+                <path d="M25.2121212,58.0266667 L31.4181818,48.5169508" id="Line-Copy-8" stroke="#39A1ED" stroke-width="3.84" stroke-linecap="round"></path>
+                <path d="M36.0727273,58.0266667 L42.2787879,48.5169508" id="Line-Copy-9" stroke="#39A1ED" stroke-width="3.84" stroke-linecap="round"></path>
+                <path d="M46.9333333,58.0266667 L53.1393939,48.5169508" id="Line-Copy-10" stroke="#39A1ED" stroke-width="3.84" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

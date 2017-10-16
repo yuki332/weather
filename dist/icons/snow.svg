@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="65px" viewBox="0 0 64 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Snow Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Snow-Copy" stroke="#39A1ED" stroke-width="3.2">
+            <g id="Group-10-Copy">
+                <g id="Group-8" transform="translate(24.320000, 0.000000)">
+                    <polyline id="Rectangle-3" transform="translate(7.268912, 7.809083) rotate(45.000000) translate(-7.268912, -7.809083) " points="12.3889124 2.73977568 12.3889124 12.8783895 2.1489124 12.8783895"></polyline>
+                    <polyline id="Rectangle-3-Copy" transform="translate(7.268912, 57.036040) scale(1, -1) rotate(45.000000) translate(-7.268912, -57.036040) " points="12.3889124 51.9667327 12.3889124 62.1053465 2.1489124 62.1053465"></polyline>
+                    <path d="M7.36,4.16 L7.36,61.12" id="Line"></path>
+                </g>
+                <g id="Group-8-Copy-3" transform="translate(31.680000, 32.320000) rotate(60.000000) translate(-31.680000, -32.320000) translate(24.320000, 0.000000)">
+                    <polyline id="Rectangle-3" transform="translate(7.268912, 7.809083) rotate(45.000000) translate(-7.268912, -7.809083) " points="12.3889124 2.73977568 12.3889124 12.8783895 2.1489124 12.8783895"></polyline>
+                    <polyline id="Rectangle-3-Copy" transform="translate(7.268912, 57.036040) scale(1, -1) rotate(45.000000) translate(-7.268912, -57.036040) " points="12.3889124 51.9667327 12.3889124 62.1053465 2.1489124 62.1053465"></polyline>
+                    <path d="M7.36,4.16 L7.36,61.12" id="Line"></path>
+                </g>
+                <g id="Group-8-Copy-4" transform="translate(31.680000, 32.320000) rotate(120.000000) translate(-31.680000, -32.320000) translate(24.320000, 0.000000)">
+                    <polyline id="Rectangle-3" transform="translate(7.268912, 7.809083) rotate(45.000000) translate(-7.268912, -7.809083) " points="12.3889124 2.73977568 12.3889124 12.8783895 2.1489124 12.8783895"></polyline>
+                    <polyline id="Rectangle-3-Copy" transform="translate(7.268912, 57.036040) scale(1, -1) rotate(45.000000) translate(-7.268912, -57.036040) " points="12.3889124 51.9667327 12.3889124 62.1053465 2.1489124 62.1053465"></polyline>
+                    <path d="M7.36,4.16 L7.36,61.12" id="Line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

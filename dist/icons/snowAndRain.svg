@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Mixed Snow and Rain Copy 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mixed-Snow-and-Rain-Copy-5">
+            <g id="Mixed-Snow-and-Rain">
+                <g id="Group-10" transform="translate(0.000000, 3.200000)">
+                    <path d="M14.7393939,41.885769 C14.6105173,41.8891885 14.4812171,41.8909091 14.3515152,41.8909091 C6.4253922,41.8909091 0,35.4655169 0,27.5393939 C0,19.613271 6.4253922,13.1878788 14.3515152,13.1878788 C15.8871688,13.1878788 17.3664888,13.4290717 18.7536594,13.8756418 C20.7059699,5.91003513 27.8931067,0 36.4606061,0 C46.5289244,0 54.6909091,8.16198468 54.6909091,18.230303 C54.6909091,18.4373147 54.6874587,18.6435205 54.6806122,18.848866 C59.9971372,19.92304 64,24.6213334 64,30.2545455 C64,36.5513314 58.9985451,41.6799649 52.7515152,41.8845662 L52.7515152,41.8909091 L14.7393939,41.8909091 L14.7393939,41.885769 Z" id="Combined-Shape-Copy-3" stroke="#000000" stroke-width="3.2" fill="#FFFFFF"></path>
+                    <g id="Group-9" transform="translate(0.640000, 48.000000)" stroke="#39A1ED" stroke-linecap="round">
+                        <path d="M0.290909091,10.0266667 L6.4969697,0.516950785" id="Line-Copy-6" stroke-width="3"></path>
+                        <path d="M22.0121212,10.0266667 L28.2181818,0.516950785" id="Line-Copy-8" stroke-width="3"></path>
+                        <path d="M43.7333333,10.0266667 L49.9393939,0.516950785" id="Line-Copy-10" stroke-width="3"></path>
+                        <g id="Group-10-Copy-5" transform="translate(54.000000, 1.000000)" stroke-width="1.5">
+                            <path d="M4.58181818,0.135403856 L4.58181818,8.44639917" id="Line"></path>
+                            <path d="M4.58181818,0.168369072 L4.58181818,8.47936438" id="Line" transform="translate(4.750000, 4.323867) rotate(60.000000) translate(-4.750000, -4.323867) "></path>
+                            <path d="M4.58181818,0.357467561 L4.58181818,8.66846287" id="Line" transform="translate(4.750000, 4.512965) rotate(120.000000) translate(-4.750000, -4.512965) "></path>
+                        </g>
+                        <g id="Group-10-Copy-6" transform="translate(31.000000, 1.000000)" stroke-width="1.5">
+                            <path d="M4.58181818,0.135403856 L4.58181818,8.44639917" id="Line"></path>
+                            <path d="M4.58181818,0.168369072 L4.58181818,8.47936438" id="Line" transform="translate(4.750000, 4.323867) rotate(60.000000) translate(-4.750000, -4.323867) "></path>
+                            <path d="M4.58181818,0.357467561 L4.58181818,8.66846287" id="Line" transform="translate(4.750000, 4.512965) rotate(120.000000) translate(-4.750000, -4.512965) "></path>
+                        </g>
+                        <g id="Group-10-Copy-7" transform="translate(9.339394, 1.000000)" stroke-width="1.5">
+                            <path d="M4.58181818,0.135403856 L4.58181818,8.44639917" id="Line"></path>
+                            <path d="M4.58181818,0.168369072 L4.58181818,8.47936438" id="Line" transform="translate(4.750000, 4.323867) rotate(60.000000) translate(-4.750000, -4.323867) "></path>
+                            <path d="M4.58181818,0.357467561 L4.58181818,8.66846287" id="Line" transform="translate(4.750000, 4.512965) rotate(120.000000) translate(-4.750000, -4.512965) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
